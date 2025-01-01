@@ -14,9 +14,6 @@
 # limitations under the License.
 #
 
-# FOD
-TARGET_HAS_FOD := true
-
 # Inherit device configuration
 $(call inherit-product, device/samsung/a53x/device.mk)
 

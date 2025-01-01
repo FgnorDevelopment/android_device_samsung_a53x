@@ -24,3 +24,6 @@ $(call inherit-product, vendor/samsung/a53x/a53x-vendor.mk)
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += $(DEVICE_PATH)/overlay
+
+# FOD
+TARGET_HAS_FOD := true
