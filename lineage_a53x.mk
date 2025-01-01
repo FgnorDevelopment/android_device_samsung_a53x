@@ -33,9 +33,9 @@ PRODUCT_MANUFACTURER := samsung
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-	PRIVATE_BUILD_DESC="a53xnaxx-user 13 TP1A.220624.014 A536BXXU4BVJG release-keys"
+	PRIVATE_BUILD_DESC="a53xnaxx-user 14 UP1A.231005.007 A536BXXSDEXL2 release-keys"
 
 # Fingerprint	
-BUILD_FINGERPRINT := samsung/a53xnaxx/essi:13/TP1A.220624.014/A536BXXU4BVJG:user/release-keys
+BUILD_FINGERPRINT := samsung/a53xnaxx/a53x:14/UP1A.231005.007/A536BXXSDEXL2:user/release-keys
 
 PRODUCT_PACKAGES += com.android.vndk.current.on_vendor

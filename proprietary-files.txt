@@ -1,4 +1,4 @@
-# Proprietary Files From A536BXXU4BVJG
+# Proprietary Files From A536BXXSDEXL2
 
 ## A53 only (temp)
 vendor/bin/hw/vendor.samsung.hardware.security.sem@1.0-service
